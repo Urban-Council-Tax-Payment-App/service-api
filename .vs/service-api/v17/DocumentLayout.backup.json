@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|d:\\usj academic\\3rd year\\6th semester\\itc 3122 mobile application development\\labs\\urban-council-tax-payment-app\\service-api\\service-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|solutionrelative:service-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 363,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "service-api.http",
+              "DocumentMoniker": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.http",
+              "RelativeDocumentMoniker": "service-api.http",
+              "ToolTip": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.http",
+              "RelativeToolTip": "service-api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-12T15:24:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
