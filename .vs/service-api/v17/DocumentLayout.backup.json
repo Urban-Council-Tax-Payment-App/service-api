@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\",
+  "WorkspaceRootPath": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|d:\\usj academic\\3rd year\\6th semester\\itc 3122 mobile application development\\labs\\urban-council-tax-payment-app\\service-api\\service-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|solutionrelative:service-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|d:\\usj academic\\3rd year\\6th semester\\itc 3122 mobile application development\\urban-council-tax-payment-app\\service-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|d:\\usj academic\\3rd year\\6th semester\\itc 3122 mobile application development\\urban-council-tax-payment-app\\service-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51190732-C0F8-4074-8B69-B30ED19105E7}|service-api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +23,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "service-api.http",
-              "DocumentMoniker": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.http",
-              "RelativeDocumentMoniker": "service-api.http",
-              "ToolTip": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.http",
-              "RelativeToolTip": "service-api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-12T15:24:03.69Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T05:23:17.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T05:17:10.017Z",
+              "EditorCaption": ""
             }
           ]
         }

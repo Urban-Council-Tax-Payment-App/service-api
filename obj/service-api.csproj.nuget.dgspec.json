@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj": {}
+    "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj": {}
   },
   "projects": {
-    "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj": {
+    "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj",
+        "projectUniqueName": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj",
         "projectName": "service-api",
-        "projectPath": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj",
+        "projectPath": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\service-api.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Labs\\Urban-Council-Tax-Payment-App\\service-api\\obj\\",
+        "outputPath": "D:\\USJ Academic\\3rd year\\6th SEMESTER\\ITC 3122 Mobile Application Development\\Urban-Council-Tax-Payment-App\\service-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
